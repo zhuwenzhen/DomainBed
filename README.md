@@ -1,5 +1,7 @@
 # Welcome to DomainBed
 
+> 他们的代码写的可太牛掰了我要fork下来写注释好好学习
+
 DomainBed is a PyTorch suite containing benchmark datasets and algorithms for domain generalization, as introduced in [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434).
 
 ## Current results
